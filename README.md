@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pooja</h1>
-<h3 align="center">A passionate full stack developer from Bangalore</h3>
+<h1 align="center">Hi 👋, I'm Pooja!</h1>
+<h3 align="center">A passionate Software Developer from Bangalore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojamallikarjun&label=Profile%20views&color=0e75b6&style=flat" alt="poojamallikarjun" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/PoojaMallikarjun?tab=repositories](https://github.com/PoojaMallikarjun?tab=repositories)
 
-- 💬 Ask me about **React, Node, Angular, Java, JS**
+- 💬 Ask me about **React, Node, Angular, Java, JS ..**
 
 - 📫 How to reach me **pooja.mallikarjun702@gmail.com**
 
