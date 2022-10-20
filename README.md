@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PoojaMallikarjun?tab=repositories](https://github.com/PoojaMallikarjun?tab=repositories)
 
-- 💬 Ask me about **React, Node, Angular, Java, JS ..**
+- 💬 Ask me about **NodeJs, AWS, PostgreSQL, Java, VanillaJS..**
 
 - 📫 How to reach me **pooja.mallikarjun702@gmail.com**
 
